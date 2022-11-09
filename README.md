@@ -5,8 +5,8 @@ Project made while studying python, with 2 algorithms, bruteforce and 0/1 knapsa
 
 Below are the description of the 2 algorithms.
 
-Bruteforce has a complexity of O(2<sup>n</sup>)
-knapsack has a complexity of O(n x W)
+* **Bruteforce has a complexity of O(2<sup>n</sup>)**
+* **knapsack has a complexity of O(n x W)**<br>
 with n = stock number and W = max cost.
 
 # Bruteforce
