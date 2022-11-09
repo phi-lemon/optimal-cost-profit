@@ -3,6 +3,12 @@ Only one of each stock can be bought.<br>
 
 Project made while studying python, with 2 algorithms, bruteforce and 0/1 knapsack.
 
+Below are the description of the 2 algorithms.
+
+Bruteforce has a complexity of O(2<sup>n</sup>)
+knapsack has a complexity of O(n x W)
+with n = stock number and W = max cost.
+
 # Bruteforce
 ```python
 INPUT_FILE = 'data/actions.csv'
